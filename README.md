@@ -2,5 +2,3 @@
 https://drrak.github.io/maniac.mansion/
 
 https://drrak.github.io/maniac.mansion/mm-solucja.pdf
-
-https://drrak.github.io/maniac.mansion/mm-solucja.odt
